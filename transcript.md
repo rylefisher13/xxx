@@ -133,3 +133,30 @@ This isn't about Jstlk or Chaeiry. This is about Destiny. He is facing serious c
 * * * * *
 
 ### **FFMPEG Cut List**
+
+# Intro/Setup
+ffmpeg -i main_transcript.mp4 -ss 00:00:17 -to 00:00:47 -c copy clip_01_herpes_analogy.mp4
+ffmpeg -i main_transcript.mp4 -ss 00:01:29 -to 00:01:46 -c copy clip_02_eject_unhinged.mp4
+ffmpeg -i main_transcript.mp4 -ss 02:02:49 -to 02:22:09 -c copy clip_03_community_of_hate.mp4
+
+# The Attack on Jstlk
+ffmpeg -i main_transcript.mp4 -ss 14:14:39 -to 14:36:33 -c copy clip_04_jstlk_threatens_community.mp4
+ffmpeg -i main_transcript.mp4 -ss 18:38:15 -to 18:56:10 -c copy clip_05_conflict_of_interest.mp4
+
+# Self-Description & Manipulation
+ffmpeg -i main_transcript.mp4 -ss 20:25:20 -to 20:55:43 -c copy clip_06_im_not_a_manipulator.mp4
+ffmpeg -i main_transcript.mp4 -ss 14:07:07 -to 14:14:39 -c copy clip_07_unreliable_narrator.mp4
+ffmpeg -i main_transcript.mp4 -ss 36:51:15 -to 37:14:55 -c copy clip_08_i_was_still_friendly.mp4
+ffmpeg -i main_transcript.mp4 -ss 38:44:21 -to 39:02:49 -c copy clip_09_reads_critic_projection.mp4
+
+# Legal Whitewashing & Replay
+ffmpeg -i main_transcript.mp4 -ss 22:55:00 -to 23:27:42 -c copy clip_10_abby_is_lying.mp4
+ffmpeg -i main_transcript.mp4 -ss 00:01:29 -to 00:01:46 -c copy clip_11_eject_unhinged_REPLAY.mp4
+
+
+# Contradiction on Sealed Witnesses
+ffmpeg -i nFF-vjs3P2s.mp4 -ss 06:13 -to 06:20 -c copy older_clip_01_fighting_seal.mp4
+ffmpeg -i nFF-vjs3P2s.mp4 -ss 02:15 -to 02:19 -c copy older_clip_02_seal_is_appropriate.mp4
+# More Contradictions
+ffmpeg -i 3qV13EdLmWY.mp4 -ss 00:44 -to 00:49 -c copy older_clip_03_seal_is_ridiculous.mp4
+ffmpeg -i 3qV13EdLmWY.mp4 -ss 02:02 -to 02:07 -c copy older_clip_04_seal_is_appropriate_again.mp4
