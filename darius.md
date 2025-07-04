@@ -40,7 +40,7 @@ Act 3
 -   Merc and Zues go down to the police station and tell the cops everything <https://kick.com/zuesirl/videos/cd9f92f9-6b14-4d76-9b76-d84091938ff9?t=14056>
 -   Fast forward merc leaving the police station full of regret with Zues, crying because 'Squeeze is a baby' <https://kick.com/zuesirl/videos/cd9f92f9-6b14-4d76-9b76-d84091938ff9?t=18857>
 -   Zues plans to press full charges, acts psychotic
--   The Darius Call from Jail at 4am (me and Prawncess on call, DO NOT pull vod, dox my city) <https://x.com/R_Kittenhouse/status/1940334325209366944>
+-  <https://x.com/R_Kittenhouse/status/1940334325209366944>
 -   And finally 
 -   Merc gets home and copes hard about how evil darius is
 -   <https://kick.com/mercoffdaperc/videos/534e36ad-e005-40cd-8e2d-5e7dcbb7ced7>
