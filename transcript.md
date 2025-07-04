@@ -1,185 +1,144 @@
-**(Video opens with a cold open. Quick, tense cuts of Destiny looking stressed on stream, headlines about his federal lawsuit, and the words "DEFLECTION," "SLANDER," and "MANIPULATION" flashing on screen.)**
+Here is the comprehensive YouTube script as requested.
 
-FILENAME: INTRO_MONTAGE.mp4\
-**(Music swells and cuts abruptly)**
+***
 
-**VOICEOVER:**\
-When you're facing a federal lawsuit for distributing intimate images and potential charges for illegal recording, what do you do? If you're Steven "Destiny" Bonnell, you don't reflect. You don't show remorse. You go on the attack. You create a smokescreen. And that's exactly what he just did.
+### **YouTube Script: The Projection Playbook**
 
-Recently, it was revealed that streamer Jstlk and Chaeiry---a key figure and potential witness in the allegations against Destiny---are in a relationship. This is a private matter between two consenting adults. But for Destiny, it was an opportunity. An opportunity to slander a critic, discredit a victim, and try to rewrite a narrative that's rapidly collapsing around him.
+**(NARRATION)**
+Prolific streamer Destiny, currently facing a federal lawsuit for the alleged distribution of intimate images without consent, has found a new target for his scrutiny. Not his own legal battles, but the private relationship of two of his most prominent critics: the streamer jstlk, and Chaeiry, one of the women who has accused Destiny of wrongdoing. The revelation that jstlk and Chaeiry are dating has become a new narrative weapon for Destiny. But as we'll see, every accusation he levels seems to be a page torn directly from his own playbook.
 
-Today, we're not going to defend Jstlk and Chaeiry. The facts of their relationship are their own. We're going to use Destiny's own words to show you his playbook: a desperate, calculated campaign of deflection built on hypocrisy, logical fallacies, and outright lies.
+**(NARRATION)**
+Let's briefly cover the facts. Jstlk and Chaeiry are in a relationship. For most, this would be a private matter. For Destiny, it's an opportunity. He immediately frames it as a grand conspiracy, a conflict of interest designed to harm him. He begins by comparing his critics to a disease.
 
-FILENAME: DESTINY_HERPES_ANALOGY.mp4\
-**VOICEOVER:**\
-Let's start with how Destiny views his critics. He doesn't see them as people with legitimate grievances. He sees them as a disease.
+`destiny_herpes_analogy.mp4`
+> **DESTINY:** I would describe people like Kiwi Farms or just call them is so kind of like herpes... they hide in places... anytime you get into a fight with somebody, for me, if I get into a fight with somebody, if they find a way to kind of like flare up, they will eject all of their unhinged shit into some public forum.
 
-**DESTINY (from transcript):**\
-I would describe people like Kiwi Farms or just call them is so kind of like herpes. So there are certain infections in your body... what will happen is, is anytime you get into a fight with somebody, for me, if I get into a fight with somebody, if they find a way to kind of like flare up, they will eject all of their unhinged shit into some public forum.
+**(NARRATION)**
+An interesting analogy, considering Destiny has his own history with that platform. While being sued, he publicly complained about his *own* intimate videos remaining on Kiwi Farms, effectively directing his audience to the very "reservoir" he now decries.
 
-**VOICEOVER:**\
-Dehumanizing language. He paints Jstlk not as a former collaborator who left over ethical concerns, but as a parasitic infection. This isn't an argument; it's a smear tactic designed to poison the well from the very beginning. And the poison is meant to distract from his own behavior.
+`3qV13EdLmWY-directing-to-kiwifarms.mp4`
+> **DESTINY (older clip):** ...directing his followers to the Kiwi Farm site again that's another super gross mischaracterization of me complaining that all of my revenge is still being openly hosted on Kiwi Farms.
 
-FILENAME: DESTINY_ACCUSES_JSTLK_DR_K.mp4\
-**VOICEOVER:**\
-Destiny spends a significant portion of his stream trying to paint Jstlk as a master manipulator. His primary evidence? A tweet from Chaeiry where she claims Jstlk offered to be her "Dr. K" to guide her.
+**(NARRATION)**
+Destiny's central attack on jstlk hinges on a series of tweets from Chaeiry, made during a moment of personal crisis. When Chaeiry's tweets are aimed at jstlk, Destiny presents them as infallible truth, reading them with dramatic conviction.
 
-**DESTINY (from transcript):**\
-So I feel like that is an unbelievably unhinged thing to say to somebody that he told her he was going to be her doctor. K... when cherry said that just it would be her doctor K that looked like some insane fucking manipulation to me.
+`destiny_reads_dr_k_tweet.mp4`
+> **DESTINY:** I think when just told me I am Reckful and he is doctor K and he promises to be my friend for two years no matter what... He means for me to depend on him so that I eventually kill myself like Reckful did.
 
-**VOICEOVER:**\
-"Insane fucking manipulation." A bold claim from a man whose own history is littered with accusations of the very same thing.
+**(NARRATION)**
+He continues, building a narrative of jstlk as a master manipulator, based entirely on these tweets.
 
-**(Quick cuts to screenshots/text on screen from the "notes" context)**
+`destiny_reads_lovebomb_tweet.mp4`
+> **DESTINY:** Jessica said he'd delete everything if I told people he wanted to be with me. But after being on call with me for 16 hours and not giving me a single reason to live and telling me he will never love me and never wanted to be with me. I think he's loved bombing and abandoning me until I break.
 
--   His ex-wife Melina has publicly stated Destiny gaslit her about his affair with Lauren Southern, told her she was crazy, and lied to their couples therapist.
+**(NARRATION)**
+But watch how his standard for truth suddenly shifts. When Chaeiry's accusations are against *him*, she's immediately dismissed.
 
-    -   He has self-admittedly used sexting to "control" former associate Anavoir.
+`destiny_unreliable_narrator.mp4`
+> **DESTINY:** So cherry obviously is an unreliable narrator, unless she's making accusations against me and she's the most reliable ally writer.
 
-FILENAME: DESTINY_AVOIDANT_PERSONALITY.mp4\
-**VOICEOVER:**\
-He even admits his own toxic coping mechanism isn't manipulation, it's just... abandoning people.
+**(NARRATION)**
+It's a stunningly transparent double standard. Chaeiry's words are gospel when aimed at his "op," but the ramblings of an "unreliable narrator" when they implicate him. He then moves from selective belief to pure fabrication, admitting he's just guessing about the relationship's timeline before immediately treating his guess as fact to build his "conflict of interest" case.
 
-**DESTINY (from transcript):**\
-My biggest problem in relationships is actually very consistently that I just disconnect too much... I have a very dismissive avoidant personality. I'll just stop talking to that person.
+`destiny_baseless_speculation.mp4`
+> **DESTINY:** I think that, I think they started dating a lot earlier. If I had to guess, I'm super reaching, like, conjecture. Whatever. Here. But I guess they probably were dating before January. Like before this year. They've been dating for probably about a year...
 
-**VOICEOVER:**\
-He accuses Jstlk of a secret, manipulative relationship while conveniently ignoring his own documented history of gaslighting, infidelity, and emotional abandonment. This is classic projection.
+`destiny_conflict_of_interest.mp4`
+> **DESTINY:** ...the person who was making accusations about me and then was on jet stream as he supposed to be, supposedly the impartial person covering things... happened to be dating one of the people who was in the process of leaving her husband for him. I feel like that's, What do you say? Conflict of interest a little bit or something. Maybe that is worth disclosing.
 
-FILENAME: DESTINY_UNRELIABLE_NARRATOR.mp4\
-**VOICEOVER:**\
-But the most blatant, telling moment of hypocrisy comes down to this single, revealing sentence.
+**(NARRATION)**
+A conflict of interest. An interesting concern from a man who once famously declared he would never, ever get involved with someone from his own community.
 
-**DESTINY (from transcript):**\
-So cherry obviously is an unreliable narrator, unless she's making accusations against me and she's the most reliable ally writer. But if we take anything she's saying here to be true at all...
+`destiny_never_fuck_community.mp4`
+> **DESTINY:** I will literally never fuck somebody from this community in a million years. Book it and cancel me if I ever fail to live up to this.
 
-**VOICEOVER:**\
-Did you catch that? He jokes about the double standard and then immediately engages in it. Chaeiry is "unreliable"... except when her words can be used as a weapon against his "op," Jstlk. Then, suddenly, her claims are taken at face value. This isn't an honest analysis; it's motivated reasoning. He doesn't care about the truth; he cares about what's convenient for his narrative.
+**(NARRATION)**
+Destiny's core defense of his own character is that he isn't manipulative. He claims his toxic trait is simply to withdraw.
 
-FILENAME: DESTINY_SPECULATES_DATING_TIMELINE.mp4\
-**VOICEOVER:**\
-And that narrative needs Jstlk to be a villain. So, Destiny invents a timeline out of thin air, admitting it's pure conjecture, to create a "conflict of interest" story.
+`destiny_claims_im_not_manipulative.mp4`
+> **DESTINY:** But I don't really do this type of shit. Like the crazy manipulator stuff... my biggest problem in relationships is actually very consistently that I just disconnect too much... I have a very dismissive avoidant personality. I'll just stop talking.
 
-**DESTINY (from transcript):**\
-I think they started dating a lot earlier. If I had to guess, I'm super reaching, like, conjecture. Whatever. Here. But I guess they probably were dating before January... The person who was making accusations about me and then was on jet stream as he supposed to be, supposedly the impartial person covering things... happened to be dating one of the people... I feel like that's, What do you say? Conflict of interest a little bit or something.
+**(NARRATION)**
+"Dismissive avoidant." A stark contrast to his own self-admitted past behavior, where he allegedly continued to sext a woman specifically to "control" her. As he casts judgment, he positions himself as a bastion of transparency, unlike his critics. Yet, this is the same man who, just months ago, spent weeks misleading his audience about court procedures, only to completely flip his story when the judge ruled against him.
 
-**VOICEOVER:**\
-He admits he's "super reaching," then states it as a premise for an attack. This entire spectacle is designed to do one thing: discredit the people who are holding him accountable, just as his legal troubles mount.
+`nFF-vjs3P2s-contradiction-compilation.mp4`
+> **DESTINY (compilation of older clips):** I don't even think they should be granted any protection of the witness identities at this point... you can't file stuff under seal and keep it from the defense you just can't do that i don't know why they keep trying to make this argument... **(CUT TO)** There's nothing wrong with them filing stuff under seal especially for a case like this i think it's appropriate this i think it's appropriate.
 
-FILENAME: DESTINY_DISMISSES_ABBY.mp4\
-**VOICEOVER:**\
-He even uses this situation to attack the credibility of his federal lawsuit, claiming that because a witness named Abby didn't mention something to Chaeiry, the entire case against him is built on lies.
+**(NARRATION)**
+Destiny's own online critics see the pattern clearly, reading their comments aloud on his stream, only to dismiss them.
 
-**DESTINY (from transcript):**\
-And remember, Abby is the only thing that is keeping the current case against me alive. Abby's testimony is the only thing that gives subject matter jurisdiction... And this is just kind of like another pin in the cushion that Abby is lying about everything, basically.
+`destiny_reads_projection_comment.mp4`
+> **DESTINY (reading comment):** Destiny is 100% going to try to reach out to cherry. It's the projection right here. He's already planting the seeds of. Look, Jessica was fucking you to get close to me. He's so transparent... Destiny. Your manipulation tactics are so transparent.
 
-**VOICEOVER:**\
-See the pattern? A private relationship is twisted into a public spectacle to cast doubt on critics, witnesses, and the very legal case that threatens his career. It's a textbook smear campaign. And it's built on a foundation of lies that stretch back months.
+**(NARRATION)**
+He dismisses this as the fantasy of a "gang stalking" community. Yet, his own words reveal the strategy. He minimizes his own alleged crimes while painting jstlk's relationship issues as a calculated, evil plot.
 
-**(Transition to showing contradictions from older videos)**
+`destiny_jstlk_was_just_a_dick.mp4`
+> **DESTINY:** I like how if I ever do anything wrong, ever. It's actually calculated... to be the most evil and unhinged and terrible, horrible, evil manipulative shit ever... But I like how now when just tickle who's been bringing cherry on to a stream knowing that she is like mentally unwell... while secretly dating her... paying her... telling her that he was gonna be a doctor K... That's all just a UPS. That was just, people are just making dumb, selfish decisions. OOPSes.
 
-**VOICEOVER:**\
-Destiny's bad faith isn't new. He consistently lies and contradicts himself, especially about his court case. He tailors his narrative to whatever makes him look best in the moment. Take the issue of sealing witness identities.
+**(NARONATION)**
+He frames jstlk's "dumb, selfish decisions" as a nefarious scheme, while his own conduct, which has led to a federal lawsuit, should presumably be seen as a simple "oops." The projection is breathtaking. This was never about a messy breakup. It's an attempt to smear a critic and discredit an accuser. It's a deflection tactic from a man under serious legal fire, who accuses others of the very behavior he himself is known for. It’s not just a defense; it’s a confession by projection.
 
-FILENAME: NFF_VJS3P2S_AGAINST_SEAL.mp4\
-**VOICEOVER:**\
-When he thought he could paint Pixie's lawyers as incompetent, he claimed their attempts to protect witnesses were improper and against the rules.
-
-**DESTINY (from **\
-...you can't file stuff under seal and keep it from the defense you just can't do that i don't know why they keep trying to make this argument that they can...
-
-FILENAME: NFF_VJS3P2S_FOR_SEAL.mp4\
-**VOICEOVER:**\
-But when the judge granted their motion, he immediately flip-flopped, pretending it was normal and expected all along.
-
-**DESTINY (from **\
-There's nothing wrong with them filing stuff under seal especially for a case like this i think it's appropriate.
-
-**VOICEOVER:**\
-The hypocrisy is staggering. And what about witness intimidation?
-
-FILENAME: 3QV13EDLMWY_INTIMIDATION_DENIAL.mp4\
-**VOICEOVER:**\
-He mocks the very idea of it as an "internet" concern that has no place in a real court.
-
-**DESTINY (from **\
-...and witness intimidation and harassment are real and ongoing concerns. Yeah, welcome to the internet. You don't think I get intimidated and harassed?
-
-FILENAME: NFF_VJS3P2S_THREATS.mp4\
-**VOICEOVER:**\
-And yet, here he is, on stream, making explicit death threats against people involved in this very drama, including Jstlk.
-
-**DESTINY (from **\
-I do want someone to kill the school though or lav or Mr orman all those people can go die.
-
-**VOICEOVER:**\
-He claims he's a victim of harassment one minute, then threatens to have his critics killed the next. He says protecting witnesses is improper, then says it's appropriate. This isn't a man arguing in good faith. This is a man who will say anything to win.
-
-FILENAME: DESTINY_PERFECT_RECORD_CLAIM.mp4\
-**VOICEOVER:**\
-He even tries to paint himself as a bewildered victim of a sudden, coordinated attack, erasing his own long and sordid history.
-
-**DESTINY (from transcript):**\
-And I've never my life like run into stuff like this. And then all of a sudden in the last like year, apparently every single fucking person was like, actually, Jesus.
-
-**VOICEOVER:**\
-"Never run into stuff like this." A perfect record? Let's be clear. This is the man who:\
-**(Text appears on screen for each point)**
-
--   Cheated on his first wife.
-
-    -   Was exposed for getting off to pictures of underage fans.
-
-    -   Leaked a woman's nudes in an act of revenge.
-
-    -   Sexually assaulted a woman on a livestream.
-
-    -   Passed STDs without disclosure.
-
-    -   And cheated on his second wife.
-
-This isn't a sudden conspiracy. It's a pattern of behavior, and the consequences are finally catching up to him.
-
-FILENAME: OUTRO_MONTAGE.mp4\
-**(Music begins to build again. Slow-motion clips of Destiny speaking, intercut with screenshots of his contradictory statements and the legal documents.)**
-
-**VOICEOVER:**\
-So when you watch Destiny lash out at Jstlk and Chaeiry, don't see it as just more online drama. See it for what it is: the desperate flailing of a man caught in a web of his own making. He is not a victim. He is not an impartial commentator. He is a defendant in a federal case, actively trying to discredit and intimidate anyone who poses a threat to his image and his freedom.
-
-He's comparing his critics to a disease, projecting his own manipulative behavior onto others, and lying about his own history, all while his legal walls close in. This isn't about truth. It's about control. And he's losing it.
-
-**(Screen goes to black.)**
-
-* * * * *
+***
 
 ### **FFMPEG Clip Cut List**
 
-**Note:** The following commands are structured for FFMPEG. The input file will be transcript.mp4 for the main stream, and the other two specified .mp4 files for the older clips.
+**Source File: `transcript.mp4`**
 
-**From **
+```bash
+# Clip: destiny_herpes_analogy.mp4
+ffmpeg -i transcript.mp4 -ss 00:00:17:31 -to 00:01:46:04 -c copy destiny_herpes_analogy.mp4
 
--   ffmpeg -i transcript.mp4 -ss 00:00:17 -to 00:01:29 -c copy DESTINY_HERPES_ANALOGY.mp4
+# Clip: destiny_hate_community.mp4
+ffmpeg -i transcript.mp4 -ss 00:02:02:49 -to 00:02:22:09 -c copy destiny_hate_community.mp4
 
-    -   ffmpeg -i transcript.mp4 -ss 00:05:33 -to 00:06:06 -c copy DESTINY_ACCUSES_JSTLK_DR_K.mp4
+# Clip: destiny_reads_dr_k_tweet.mp4
+ffmpeg -i transcript.mp4 -ss 00:09:07:00 -to 00:09:16:00 -c copy destiny_reads_dr_k_tweet.mp4
 
-    -   ffmpeg -i transcript.mp4 -ss 00:20:38 -to 00:20:55 -c copy DESTINY_AVOIDANT_PERSONALITY.mp4
+# Clip: destiny_reads_lovebomb_tweet.mp4
+ffmpeg -i transcript.mp4 -ss 00:13:45:34 -to 00:14:14:34 -c copy destiny_reads_lovebomb_tweet.mp4
 
-    -   ffmpeg -i transcript.mp4 -ss 00:13:45 -to 00:14:14 -c copy DESTINY_UNRELIABLE_NARRATOR.mp4
+# Clip: destiny_unreliable_narrator.mp4
+ffmpeg -i transcript.mp4 -ss 00:14:14:34 -to 00:14:20:00 -c copy destiny_unreliable_narrator.mp4
 
-    -   ffmpeg -i transcript.mp4 -ss 00:17:55 -to 00:19:12 -c copy DESTINY_SPECULATES_DATING_TIMELINE.mp4
+# Clip: destiny_baseless_speculation.mp4
+ffmpeg -i transcript.mp4 -ss 00:17:55:00 -to 00:18:17:28 -c copy destiny_baseless_speculation.mp4
 
-    -   ffmpeg -i transcript.mp4 -ss 00:22:32 -to 00:23:27 -c copy DESTINY_DISMISSES_ABBY.mp4
+# Clip: destiny_conflict_of_interest.mp4
+ffmpeg -i transcript.mp4 -ss 00:18:17:28 -to 00:18:54:17 -c copy destiny_conflict_of_interest.mp4
 
-    -   ffmpeg -i transcript.mp4 -ss 00:32:41 -to 00:33:00 -c copy DESTINY_PERFECT_RECORD_CLAIM.mp4
+# Clip: destiny_claims_im_not_manipulative.mp4
+ffmpeg -i transcript.mp4 -ss 00:20:10:54 -to 00:20:55:43 -c copy destiny_claims_im_not_manipulative.mp4
 
-**From **
+# Clip: destiny_never_fuck_community.mp4
+ffmpeg -i transcript.mp4 -ss 00:24:07:18 -to 00:24:31:40 -c copy destiny_never_fuck_community.mp4
 
--   ffmpeg -i nFF-vjs3P2s.mp4 -ss 00:01:05 -to 00:01:19 -c copy NFF_VJS3P2S_AGAINST_SEAL.mp4
+# Clip: destiny_reads_projection_comment.mp4
+ffmpeg -i transcript.mp4 -ss 00:37:57:47 -to 00:39:21:35 -c copy destiny_reads_projection_comment.mp4
 
-    -   ffmpeg -i nFF-vjs3P2s.mp4 -ss 00:02:15 -to 00:02:19 -c copy NFF_VJS3P2S_FOR_SEAL.mp4
+# Clip: destiny_jstlk_was_just_a_dick.mp4
+ffmpeg -i transcript.mp4 -ss 00:40:44:59 -to 00:41:34:56 -c copy destiny_jstlk_was_just_a_dick.mp4
+```
 
-    -   ffmpeg -i nFF-vjs3P2s.mp4 -ss 00:04:01 -to 00:04:06 -c copy NFF_VJS3P2S_THREATS.mp4
+**Source File: `3qV13EdLmWY.mp4`**
 
-**From **
+```bash
+# Clip: 3qV13EdLmWY-directing-to-kiwifarms.mp4
+ffmpeg -i 3qV13EdLmWY.mp4 -ss 00:12:52:00 -to 00:13:01:00 -c copy 3qV13EdLmWY-directing-to-kiwifarms.mp4
+```
 
--   ffmpeg -i 3qV13EdLmWY.mp4 -ss 00:03:18 -to 00:03:24 -c copy 3QV13EDLMWY_INTIMIDATION_DENIAL.mp4
+**Source File: `nFF-vjs3P2s.mp4`**
+
+```bash
+# Clip: nFF-vjs3P2s-contradiction-compilation.mp4
+# This requires combining two separate parts of the video. Create them first, then concatenate.
+ffmpeg -i nFF-vjs3P2s.mp4 -ss 00:01:05:00 -to 00:01:19:00 -c copy part1.mp4
+ffmpeg -i nFF-vjs3P2s.mp4 -ss 00:02:15:00 -to 00:02:19:00 -c copy part2.mp4
+# Create a file named mylist.txt with the following content:
+# file 'part1.mp4'
+# file 'part2.mp4'
+ffmpeg -f concat -safe 0 -i mylist.txt -c copy nFF-vjs3P2s-contradiction-compilation.mp4
+# Clean up intermediate files
+# del part1.mp4 part2.mp4 mylist.txt (Windows)
+# rm part1.mp4 part2.mp4 mylist.txt (Mac/Linux)
+```
