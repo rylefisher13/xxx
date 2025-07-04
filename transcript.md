@@ -1,6 +1,5 @@
 ### **YouTube Script: Destiny's Desperate Deflection**
 
-**(Video opens with a cold, sharp musical sting. A title card appears: "PROJECTION & DECEPTION")**
 
 **NARRATOR:**\
 Destiny, the streamer currently facing a federal lawsuit for the alleged distribution of intimate images without consent, is on the attack. But his target isn't the legal system or the evidence against him. His target is Jstlk---a creator who has covered the allegations---and Chaeiry, one of Destiny's own accusers. Why? Because it was revealed they are dating.
