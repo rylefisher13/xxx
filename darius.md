@@ -2,8 +2,7 @@ Ryle's timeline:
 
 players:
 
--   https://kick.com/zuesirl
- Zues (new roommate, main antagonist, ex-military)
+-   https://kick.com/zuesirl Zues (new roommate, main antagonist, ex-military)
 
 -   <https://kick.com/midkoreaman102> MidKoreanMan102 (from CX prison, best footage),
 
