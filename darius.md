@@ -1,6 +1,6 @@
 Ryle's timeline:
 
-players:
+players (living together):
 
 -   https://kick.com/zuesirl Zues (new roommate, main antagonist, ex-military)
 
