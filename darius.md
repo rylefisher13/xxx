@@ -8,7 +8,7 @@ players:
 
 -   Squeeze, Darius, Zeus, and Merc.
 
-Act 1:
+# Act 1:
 
 -   Zues has been aggravating everyone, he won't do any chores.   
 -   Here's a clip of him bothering squeeze (you can hit watch full) <https://kick.com/zuesirl/clips/clip_01JZ47DQG42DY0N81QRWV1GHJT> 
@@ -19,7 +19,7 @@ Act 1:
 -   <https://kick.com/zuesirl/videos/cd9f92f9-6b14-4d76-9b76-d84091938ff9?t=4523>
 (Watch 5-10 minutes; @1:17:30 you'll see Darius peeking through the window while they're at dinner)
 
-Act 2:
+# Act 2:
 
 -   Immediately after, Darius, Squeeze, and MKM break into Zues' unlocked car to steal all his (gatorades) while at dinner. They also buy eggs, planning to egg his car later.   POV: <https://kick.com/midkoreaman102/videos/1d56dd8d-c4e7-49ac-b84b-24daca1e3017?t=826> 
 -   At 19 minutes skip to next timestamp. They buy eggs. <https://kick.com/midkoreaman102/videos/1d56dd8d-c4e7-49ac-b84b-24daca1e3017?t=3125> 
@@ -33,7 +33,7 @@ Act 2:
 -   You'll have seen merc calling the cops,\
     Zues has the only good angle when they arrive (not super entertaining):
 -   <https://kick.com/zuesirl/videos/cd9f92f9-6b14-4d76-9b76-d84091938ff9?t=10087> 
-Act 3
+# Act 3
 
 -   Prawncess breaks the news: "darius and squeeze are arrested" <https://kick.com/midkoreaman102/clips/clip_01JZ4YR3SS33YE6ZESJEMMNJYR> 
 -   Merc and Zues go down to the police station and tell the cops everything <https://kick.com/zuesirl/videos/cd9f92f9-6b14-4d76-9b76-d84091938ff9?t=14056>
