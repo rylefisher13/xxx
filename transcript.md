@@ -267,3 +267,32 @@ The real story isn't about who is dating whom. It's about a pattern of behavior.
 *   `ffmpeg -ss 00:01:05 -to 00:01:10 -i 3qV13EdLmWY.mp4 -c copy destiny_mocks_sloppy_filings.mp4`
 *   `ffmpeg -ss 00:08:55 -to 00:09:03 -i 3qV13EdLmWY.mp4 -c copy destiny_cardi_misinterpretation.mp4`
 *   `ffmpeg -ss 00:09:44 -to 00:09:53 -i 3qV13EdLmWY.mp4 -c copy esportsbatman_rebuttal.mp4`
+
+
+destiny_i_dont_manipulate.mp4
+destiny_threatens_jstlk.mp4
+destiny_victim_blames_anna.mp4
+destiny_claims_im_ned_stark.mp4
+destiny_hater_and_rapist.mp4
+destiny_conflict_of_interest.mp4
+destiny_dr_k_manipulation.mp4
+destiny_mindfucked.mp4
+anna_dox_thread.mp4
+destiny_victim_blames_anna.mp4
+destiny_admits_anna_relationship.mp4
+destiny_jstlk_hostage.mp4
+destiny_choke_out_rachel.mp4
+destiny_claims_too_much_disconnect.mp4
+dan_friends_say.mp4
+destiny_connects_to_case.mp4
+jstlk_shows_contradiction_1.mp4
+jstlk_shows_contradiction_2.mp4
+destiny_mocks_sloppy_filings.mp4
+destiny_cardi_misinterpretation.mp4
+esportsbatman_rebuttal.mp4
+destiny_calls_her_disgusting.mp4
+destiny_cherry_unreliable.mp4
+destiny_cherry_unreliable_but.mp4
+destiny_whiplash_on_cherry.mp4
+destiny_no_sympathy_but_actually.mp4
+destiny_claims_no_manipulation_reprise.mp4
